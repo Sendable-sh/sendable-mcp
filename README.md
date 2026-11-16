@@ -25,12 +25,10 @@ This remote MCP server gives your AI assistant the same access you have in Senda
 
 ## Server
 
-| | |
-| --- | --- |
-| URL | `https://app.getsendable.io/api/mcp` |
-| Transport | Streamable HTTP |
-| Authentication | OAuth: sign in with your Sendable account, then pick a team. No API key. |
-| Tools | 61 |
+- **URL**: `https://app.getsendable.io/api/mcp`
+- **Transport**: Streamable HTTP
+- **Authentication**: OAuth. Sign in with your Sendable account, then pick a team. No API key.
+- **Tools**: 61
 
 There is nothing to install or host: the server runs on Sendable.
 
